@@ -42,7 +42,7 @@
   position: absolute;
   width: 1440px;
   height: 5478px;
-  background-color: rgba(250, 248, 247, 1);
+  background-color: #faf8f7;
   overflow: hidden;
   --web-view-name: Artboard – 1;
   --web-view-id: Artboard___1;
@@ -165,7 +165,7 @@
 }
 #Consultant___Public_Speaker {
   position: absolute;
-  left: 1189px;
+  left: 1149px;
   top: 25px;
   overflow: visible;
   width: 240px;
